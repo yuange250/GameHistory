@@ -915,7 +915,7 @@
         "sales": "不详",
         "easterEgg": "玩家经济系统被长期研究"
       },
-      "imageUrl": "/images/nodes/netease-tgs-2023-day3-booth-328-wikimedia.jpg",
+      "imageUrl": "/images/nodes/netease-hangzhou-office-wikimedia.jpg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8",
       "tags": [
         "PC",
@@ -2045,7 +2045,8 @@
         "主机",
         "欧美",
         "game",
-        "休闲"
+        "休闲",
+        "R星"
       ]
     },
     "relatedNodes": [
@@ -2569,7 +2570,8 @@
         "主机",
         "欧美",
         "game",
-        "休闲"
+        "休闲",
+        "R星"
       ]
     },
     "relatedNodes": [
@@ -2680,7 +2682,8 @@
         "PC",
         "欧美",
         "game",
-        "RPG"
+        "RPG",
+        "蠢驴"
       ]
     },
     "relatedNodes": [
@@ -2849,7 +2852,8 @@
         "主机",
         "欧美",
         "game",
-        "休闲"
+        "休闲",
+        "R星"
       ]
     },
     "relatedNodes": [
@@ -3042,7 +3046,8 @@
         "PC",
         "欧美",
         "game",
-        "RPG"
+        "RPG",
+        "蠢驴"
       ]
     },
     "relatedNodes": [
@@ -3685,7 +3690,7 @@
         "sales": "不详（道具收费）",
         "easterEgg": "运输船等地图成为一代对战记忆"
       },
-      "imageUrl": "/images/nodes/tencent-logo-wikimedia.png",
+      "imageUrl": "/images/nodes/smilegate-logo-wikimedia.svg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF",
       "tags": [
         "PC",
@@ -3714,7 +3719,7 @@
         "sales": "不详（免费内购，第三方流水常居前列）",
         "easterEgg": "英雄与皮肤联动文化 IP 频繁"
       },
-      "imageUrl": "/images/nodes/arena-of-valor-logo-wikimedia.png",
+      "imageUrl": "/images/nodes/honor-of-kings-wordmark-wikimedia.png",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80",
       "tags": [
         "移动",
@@ -3745,7 +3750,7 @@
         "sales": "不详（长期运营）",
         "easterEgg": "SSR 抽卡梗与二创繁荣"
       },
-      "imageUrl": "/images/nodes/onmyoji-stage-wikimedia.jpg",
+      "imageUrl": "/images/nodes/onmyoji-booth-entrance-wikimedia.jpg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E9%98%B4%E9%98%B3%E5%B8%88_(%E6%B8%B8%E6%88%8F)",
       "tags": [
         "移动",
@@ -3775,7 +3780,7 @@
         "sales": "不详（免费内购）",
         "easterEgg": "与同类产品在玩法与商业化上形成激烈竞争"
       },
-      "imageUrl": "/images/nodes/netease-tgs-2023-booth-wikimedia.jpg",
+      "imageUrl": "/images/nodes/knives-out-championship-jp-wikimedia.jpg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E8%A1%8C%E5%8A%A8",
       "tags": [
         "移动",
@@ -3805,7 +3810,7 @@
         "sales": "不详（点卡/道具并存）",
         "easterEgg": "社交与庄园玩法成为讨论焦点"
       },
-      "imageUrl": "/images/nodes/justice-online-tgs2025-wikimedia.jpg",
+      "imageUrl": "/images/nodes/justice-online-tgs2025-0644-wikimedia.jpg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E9%80%86%E6%B0%B4%E5%AF%92_(%E6%B8%B8%E6%88%8F)",
       "tags": [
         "PC",
@@ -3834,7 +3839,7 @@
         "sales": "逾千万份（多平台累计，公开报道区间）",
         "easterEgg": "钩索与振刀博弈成为战斗记忆点"
       },
-      "imageUrl": "/images/nodes/naraka-bladepoint-booth-wikimedia.jpg",
+      "imageUrl": "/images/nodes/naraka-bladepoint-booth-taipei-wikimedia.jpg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E6%B0%B8%E5%8A%AB%E7%84%A1%E9%96%93",
       "tags": [
         "PC",
@@ -3863,7 +3868,7 @@
         "sales": "不详（免费内购）",
         "easterEgg": "赛事与跨界联动频繁"
       },
-      "imageUrl": "/images/nodes/pubg-studios-logo-wikimedia.png",
+      "imageUrl": "/images/nodes/pubg-mobile-simple-logo-wikimedia.svg",
       "sourceUrl": "https://zh.wikipedia.org/wiki/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
       "tags": [
         "移动",

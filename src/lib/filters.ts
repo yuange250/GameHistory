@@ -11,7 +11,7 @@ export interface FilterState {
 export const FILTER_PLATFORMS = ['主机', 'PC', '移动', '街机'] as const;
 export const FILTER_GENRES = ['FPS', 'RPG', '策略', '独立', '休闲'] as const;
 export const FILTER_REGIONS = ['中国', '日本', '欧美', '全球'] as const;
-export const FILTER_VENDORS = ['任天堂', '索尼', '微软', '网易', '腾讯', '世嘉', 'Capcom'] as const;
+export const FILTER_VENDORS = ['任天堂', '索尼', '微软', 'R星', '蠢驴', '世嘉', 'Capcom'] as const;
 
 export function defaultFilters(): FilterState {
   return {
